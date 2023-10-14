@@ -17,8 +17,10 @@ This Python project combines facial detection with music selection to create an 
    ```shell
    cd playing-music-with-facial-detection
 
-
 3. **Install Required Module:**
    ```shell
    pip install -r requirements.txt
 
+4. **Run The Program:**
+    ```shell
+    python main.py
