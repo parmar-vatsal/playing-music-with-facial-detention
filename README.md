@@ -9,7 +9,7 @@ This Python project combines facial detection with music selection to create an 
 - This project uses OpenCV for real-time facial detection.
 - It recognizes emotions based on facial expressions and plays corresponding music.
 - Supported emotions include happiness (😃), sadness (😢), and more.
-- Supported Emotions 😃😢😠
+- Supported Emotions
 😃 Happy
 😢 Sad
 😠 Angry
